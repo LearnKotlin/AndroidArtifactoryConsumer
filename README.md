@@ -4,4 +4,4 @@
 https://github.com/LearnKotlin/AndroidArtifactoryProvider
 
 - Output
-<img src="glassyView.gif" width="400" height="790">
+<img src="https://github.com/LearnKotlin/GlassyCanvasDraw/blob/master/glassyView.gif" width="400" height="790">
