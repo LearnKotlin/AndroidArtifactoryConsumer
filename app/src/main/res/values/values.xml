@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="newbox_size">260dp</dimen>
+    <dimen name="newstroke">1dp</dimen>
+</resources>
